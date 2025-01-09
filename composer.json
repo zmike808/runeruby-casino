@@ -57,7 +57,7 @@
         "stripe/stripe-php": "^7.44",
         "torann/geoip": "^1.2",
         "vkcom/vk-php-sdk": "^5.101",
-        "web3p/ethereum-tx": "^0.4.0",
+        "web3p/ethereum-tx": "^0.4.0"
     },
     "require-dev": {
         "barryvdh/laravel-debugbar": "^3.3",
