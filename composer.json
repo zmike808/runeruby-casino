@@ -7,21 +7,6 @@
         "laravel"
     ],
     "license": "MIT",
-    "repositories": [{
-        "type": "package",
-        "package": {
-            "version": "dev-master",
-            "name": "win5x/lightopenid",
-            "source": {
-                "url": "https://github.com/RuneRuby-Team/LightOpenID.git",
-                "type": "git",
-                "reference": "master"
-            },
-            "autoload": {
-                "classmap": ["openid.php", "provider/provider.php"]
-            }
-        }
-    }],
     "require": {
         "php": "^7.4",
         "ext-curl": "*",
@@ -48,7 +33,7 @@
         "intervention/image": "^2.5",
         "jakobo/hotp-php": "^1.0",
         "jdenticon/jdenticon": "^1.0",
-        "jenssegers/mongodb": "dev-develop",
+        "jenssegers/mongodb": "4.0.0-alpha.1",
         "laravel-notification-channels/discord": "^1.1",
         "laravel-notification-channels/webpush": "^5.0",
         "laravel/framework": "^7.0",
