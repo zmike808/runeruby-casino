@@ -4,7 +4,7 @@ use Illuminate\Database\Migrations\Migration;
 use Illuminate\Database\Schema\Blueprint;
 use Illuminate\Support\Facades\Schema;
 
-class GlobalNotification extends Migration
+class GlobalNotifications extends Migration
 {
     /**
      * Run the migrations.
